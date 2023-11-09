@@ -12,8 +12,8 @@ For more details about AUSampler and our work on it:
 
 And associated source code for it can be found [here](https://github.com/infinum/mysterious-sampler).
 
-[Facebook's Fishhook](https://github.com/facebook/fishhook)
-[Hopper Disassembler](https://www.hopperapp.com/)
+- [Facebook's Fishhook](https://github.com/facebook/fishhook)
+- [Hopper Disassembler](https://www.hopperapp.com/)
 
 For relevant bug reports we filed with Apple:
 
