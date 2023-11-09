@@ -1,5 +1,7 @@
 # Audio Unit debugging and reverse engineering
 
+![github-wallpaper-img-small](https://github.com/infinum/adc-23-poster/assets/3751289/8acb9db1-5392-4132-a105-2c005d7b5ecc)
+
 A poster presented at ADC 2023. You can find a poster [here](au-debugging-reverse-engineering.pdf).
 
 ## Resources
