@@ -28,3 +28,7 @@ Associated source code for it can be found [here](https://github.com/infinum/mys
 - [AVAudioUnitSampler's preset cleaned up when chain is reconnected](http://openradar.appspot.com/radar?id=5514004654981120)
 - [Resonance connection not working on iOS](http://openradar.appspot.com/radar?id=5551119480651776)
 
+## Contact
+
+- Vlaho Poluta - vlaho.poluta@infinum.com
+- Josip Cavar - josip.cavar@infinum.com
